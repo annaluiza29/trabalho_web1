@@ -1,0 +1,5 @@
+npm init -y
+npm i express
+npm install mysql2
+npm instal cors
+node --watch src/index.js
